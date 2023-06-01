@@ -6,7 +6,7 @@ class Tictactoe
     @player2
     @gameover
     #getters/setters
-    attr_accessor :player1, :player2, :gameover, :is_player1_turn, :current_player
+    attr_accessor :player1, :player2, :gameover, :current_player
     #constructor
     def initialize()
         @board = Array.new(3) {Array.new(3)}
@@ -275,6 +275,7 @@ class Tictactoe
     end
 
 end
+
 t = Tictactoe.new()
 
 puts "Welcome to tic-tac-toe!\nPlayer 1 is #{t.player1} and Player 2 is #{t.player2}"
