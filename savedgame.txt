@@ -1,1 +1,1 @@
-{"json_class":"Hangman","answer":["a","c","d","b","e","n","t","i","t","y"],"guess":"a___e__i__","turns":7,"gameover":false,"player_guesses":["a","p","i","e"]}
+{"json_class":"Hangman","answer":["s","i","g","n","i","f","i","c","a","n","t"],"guess":"_i__i_i_a__","turns":5,"gameover":false,"player_guesses":["o","a","e","m","i"]}

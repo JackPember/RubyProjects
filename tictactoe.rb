@@ -279,10 +279,7 @@ class Tictactoe
     end
 
 end
-<<<<<<< HEAD
 
-=======
->>>>>>> 01e48522089721df64f14aedceb483e7779e1e62
 t = Tictactoe.new()
 
 puts "Welcome to tic-tac-toe!\nPlayer 1 is #{t.player1} and Player 2 is #{t.player2}"

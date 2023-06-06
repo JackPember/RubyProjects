@@ -17,9 +17,9 @@ def caesar_cipher(word, shift)
             ((letter.ord + shift) + 26).chr
         end
     end
-    puts word.join("")
+    word.join("")
 end
     
 caesar_cipher("I fucking did it!!", 5)
-
+puts caesar_cipher("What a string!", 5)
 
